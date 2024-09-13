@@ -1,5 +1,5 @@
 
-<div><img src="[https://capsule-render.vercel.app/api?type=waving&color=0:ccce99,100:7B6FFF&height=200&section=header&text=Suchan Na&fontSize=90](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Suchan%20Na&fontColor=000000&textBg=false&fontSize=90&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=2&section=header&reversal=false&descAlign=60&descAlignY=60)" /></div>
+<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Suchan%20Na&fontColor=000000&textBg=false&fontSize=90&fontAlign=50&animation=fadeIn&stroke=FFFFFF&strokeWidth=2&section=header&reversal=false&descAlign=60&descAlignY=60" /></div>
 
 <div align="center">
 <h1 style="text-align:center"> Hi I'm  🙋‍♂️</h1>I'm developing for our lives 
